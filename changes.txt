@@ -1,11 +1,11 @@
-change background.
+change background. - first edit done
 change font
 change deadline color and font
 
 change header - 
-	- add iiita in left
-	- add topbot in middle 
-	- add approksha in right
+	- add iiita in left (added)
+	- add topbot in middle (waiting for logo)
+	- add approksha in right (added)
 change footer -
 	- remove developed by
 	- add iiita address and credential in bottom
