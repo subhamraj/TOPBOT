@@ -1,7 +1,8 @@
 change background. - first edit done
 change font
 change deadline color and font
-
+header - iiita and aparoksha added
+footer changed
 change header - 
 	- add iiita in left (added)
 	- add topbot in middle (waiting for logo)
@@ -9,8 +10,25 @@ change header -
 change footer -
 	- remove developed by
 	- add iiita address and credential in bottom
+	
+
+----------------------------------------------------------------
+still to add topbot logo
+
+change images
+
+add proper details
+
+make a page for whole team
+
 tiles anticlockwise left to right -
 	1. About the event
-
+	2. Register for event
+	3. Sponsors
+	4. Prices and Awards
+	5. Event Team
+	6. Latest News
+	7. Event Guidelines
+	8. Contact
 
 More changes to add.
