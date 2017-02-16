@@ -138,16 +138,14 @@ fieldset[disabled] .btn-primary.active {
     float: right;
 }
 
-.col-md-4 h3 {
+.col-md-6 h3 {
     color: white;
     text-align: center;
-    float: left;
 }
 
-.col-md-4 img {
+.col-md-6 img {
     width: 5vw;
     height: 10vh;
-    float: left;
 }
 
 /**** Start Background Color ****/
