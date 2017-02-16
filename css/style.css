@@ -111,7 +111,9 @@ fieldset[disabled] .btn-primary.active {
 /**** Start Logo Section ****/
 
 #logo-section {
-    
+    background-color: black;
+    background: rgba(0, 0, 0, .7);
+    padding-bottom: 5px;
 }
 
 .logo h1 {
@@ -124,7 +126,29 @@ fieldset[disabled] .btn-primary.active {
     color: #999;
 }
 
+.col-md-3 h3 {
+    color: white;
+    text-align: center;
+    float: right;
+}
 
+.col-md-3 img {
+    width: 5vw;
+    height: 10vh;
+    float: right;
+}
+
+.col-md-4 h3 {
+    color: white;
+    text-align: center;
+    float: left;
+}
+
+.col-md-4 img {
+    width: 5vw;
+    height: 10vh;
+    float: left;
+}
 
 /**** Start Background Color ****/
 
@@ -219,8 +243,6 @@ and (max-width : 991px) {
     }
     
 }
-
-
 
 @media only screen 
 and (min-width : 992px) 
