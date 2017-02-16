@@ -1,0 +1,16 @@
+change background.
+change font
+change deadline color and font
+
+change header - 
+	- add iiita in left
+	- add topbot in middle 
+	- add approksha in right
+change footer -
+	- remove developed by
+	- add iiita address and credential in bottom
+tiles anticlockwise left to right -
+	1. About the event
+
+
+More changes to add.
