@@ -1,34 +1,28 @@
-change background. - first edit done
+logo added
+change background. - second edit done
 change font
 change deadline color and font
 header - iiita and aparoksha added
 footer changed
 change header - 
 	- add iiita in left (added)
-	- add topbot in middle (waiting for logo)
+	- add topbot in middle (added)
 	- add approksha in right (added)
 change footer -
 	- remove developed by
 	- add iiita address and credential in bottom
 	
-
 ----------------------------------------------------------------
-still to add topbot logo
-
 change images
 
-add proper details
-
-make a page for whole team
-
 tiles anticlockwise left to right -
-	1. About the event
-	2. Register for event
-	3. Sponsors
-	4. Prices and Awards
-	5. Event Team
-	6. Latest News
-	7. Event Guidelines
-	8. Contact
+	1. About the event (waiting for details)
+	2. Register for event (google form done)
+	3. Sponsors (waiting for details)
+	4. Prices and Awards (waiting for details)
+	5. Event Team - (all columns made)
+	6. Latest News - (area for news cleared)
+	7. Event Guidelines (file upload done)
+	8. Contact (waiting for details)
 
 More changes to add.
